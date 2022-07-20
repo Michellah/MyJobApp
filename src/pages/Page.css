@@ -1,0 +1,32 @@
+.card-content-ios{
+    padding-bottom: 5px;
+    padding-top: 10px;
+}
+.contratStyle{
+    color: cadetblue;
+}
+.entrepriesStyle{
+    background-color: cadetblue;
+    color: white;
+    height: 8vh;
+}
+.badgeStyle{
+    padding: 6px;
+    margin: auto;
+    margin-right: 0;
+    background-color: #cf3c4f;
+    color: white;
+    border-radius: 15px;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+}
+.button{
+    padding: 10px;
+    color: black;
+}
+.descriptionStyle{
+    padding: 10px;
+    color: rgb(105, 105, 99);
+}
